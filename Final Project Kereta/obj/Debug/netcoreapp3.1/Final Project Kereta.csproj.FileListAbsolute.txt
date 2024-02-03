@@ -1,0 +1,14 @@
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\Final Project Kereta\Final Project Kereta\bin\Debug\netcoreapp3.1\Final Project Kereta.exe
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\Final Project Kereta\Final Project Kereta\bin\Debug\netcoreapp3.1\Final Project Kereta.deps.json
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\Final Project Kereta\Final Project Kereta\bin\Debug\netcoreapp3.1\Final Project Kereta.runtimeconfig.json
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\Final Project Kereta\Final Project Kereta\bin\Debug\netcoreapp3.1\Final Project Kereta.runtimeconfig.dev.json
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\Final Project Kereta\Final Project Kereta\bin\Debug\netcoreapp3.1\Final Project Kereta.dll
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\Final Project Kereta\Final Project Kereta\bin\Debug\netcoreapp3.1\Final Project Kereta.pdb
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\Final Project Kereta\Final Project Kereta\obj\Debug\netcoreapp3.1\Final Project Kereta.csproj.AssemblyReference.cache
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\Final Project Kereta\Final Project Kereta\obj\Debug\netcoreapp3.1\Final Project Kereta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\Final Project Kereta\Final Project Kereta\obj\Debug\netcoreapp3.1\Final Project Kereta.AssemblyInfoInputs.cache
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\Final Project Kereta\Final Project Kereta\obj\Debug\netcoreapp3.1\Final Project Kereta.AssemblyInfo.cs
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\Final Project Kereta\Final Project Kereta\obj\Debug\netcoreapp3.1\Final Project Kereta.csproj.CoreCompileInputs.cache
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\Final Project Kereta\Final Project Kereta\obj\Debug\netcoreapp3.1\Final Project Kereta.dll
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\Final Project Kereta\Final Project Kereta\obj\Debug\netcoreapp3.1\Final Project Kereta.pdb
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\Final Project Kereta\Final Project Kereta\obj\Debug\netcoreapp3.1\Final Project Kereta.genruntimeconfig.cache
